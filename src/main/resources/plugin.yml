@@ -1,0 +1,9 @@
+name: SimpleEconomy
+version: '${project.version}'
+main: github.com.sweetenpotato.simpleeconomy.SimpleEconomy
+api-version: 1.19
+prefix: SimpleEconomy
+depend: [ Vault ]
+authors: [ sweetenpotato ]
+description: Simplest economy plugin for spigot.
+website: https://sweetenpotato.github.io/
